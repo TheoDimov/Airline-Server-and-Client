@@ -1,7 +1,4 @@
-// Group:  	   	Ilir Asllani, Theo Dimov, Leonny Correa
-// Course:     	Software Engineering
-// Assignment: 	Project - Fordham Airlines
-// Class: 		ClientApp.java - part of Airline Client
+// Class: 	ClientApp.java - part of Airline Client
 // Description: This the main class for the Airline Client. It consists of provides all the elements
 //				of the Client Display.
 
