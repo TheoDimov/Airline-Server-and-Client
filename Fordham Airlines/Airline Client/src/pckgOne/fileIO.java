@@ -1,7 +1,4 @@
-// Group:  	   	Ilir Asllani, Theo Dimov, Leonny Correa
-// Course:     	Software Engineering
-// Assignment: 	Project - Fordham Airlines
-// Class: 		fileIO.java - part of Airline Client
+// Class: 	fileIO.java - part of Airline Client
 // Description: This class simply updates the transaction log 
 
 package pckgOne;
