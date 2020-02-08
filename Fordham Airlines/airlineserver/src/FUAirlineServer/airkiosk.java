@@ -1,9 +1,6 @@
-// Group:  	   	Ilir Asllani, Theo Dimov, Leonny Correa
-// Course:     	Software Engineering
-// Assignment: 	Project - Fordham Airlines
-// Class: 		airkiosk.java - part of Server Client
+// Class: 	airkiosk.java - part of Server Client
 // Description: This class provides many methods and variables used
-//				by the server client to update stats.
+//		by the server client to update stats.
 
 package FUAirlineServer;
 
