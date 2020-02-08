@@ -1,7 +1,4 @@
-// Group:  	   	Ilir Asllani, Theo Dimov, Leonny Correa
-// Course:     	Software Engineering
-// Assignment: 	Project - Fordham Airlines
-// Class: 		AlertBox.java - part of Airline Client
+// Class: AlertBox.java - part of Airline Client
 // Description: This class simply provides an alert box display in the instance of an error.
 
 package pckgOne;
