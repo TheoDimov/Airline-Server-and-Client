@@ -1,7 +1,4 @@
-// Group:  	   	Ilir Asllani, Theo Dimov, Leonny Correa
-// Course:     	Software Engineering
-// Assignment: 	Project - Fordham Airlines
-// Class: 		mainServer.java - part of server client
+// Class: 	mainServer.java - part of server client
 // Description: The main display of the server client.
 
 package FUAirlineServer;
