@@ -1,7 +1,4 @@
-// Group:  	   	Ilir Asllani, Theo Dimov, Leonny Correa
-// Course:     	Software Engineering
-// Assignment: 	Project - Fordham Airlines
-// Class: 		airlinesocket.java - part of Server Client
+// Class: 	airlinesocket.java - part of Server Client
 // Description: Provides the connections and updates data for the main server from messages from clients. 
 
 package FUAirlineServer;
