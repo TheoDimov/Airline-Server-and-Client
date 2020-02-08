@@ -1,9 +1,6 @@
-// Group:  	   	Ilir Asllani, Theo Dimov, Leonny Correa
-// Course:     	Software Engineering
-// Assignment: 	Project - Fordham Airlines
-// Class: 		socketUtils.java - part of Airline Client
+// Class: 	socketUtils.java - part of Airline Client
 // Description: This class deals with sending and recieving messages to and from the server
-//				and provides functions used by the other classes.
+//		and provides functions used by the other classes.
 
 package pckgOne;
 
